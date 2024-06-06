@@ -1,0 +1,12 @@
+project/
+    ├── app/
+    │   ├── __init__.py
+    │   ├── main.py
+    │   ├── models.py
+    │   ├── schemas.py
+    │   └── crud.py
+    ├── tests/
+    │   ├── __init__.py
+    │   └── test_product.py
+    └── requirements.txt
+    
